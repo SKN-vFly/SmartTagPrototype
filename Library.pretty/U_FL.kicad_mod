@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -2.5 0)
+		(at 0 -2.25 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "a4000d2a-4361-4728-a5ec-0936e143a0f9")
@@ -16,7 +16,7 @@
 		)
 	)
 	(property "Value" "U_FL"
-		(at 0 2.75 0)
+		(at 0 4 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "ba89012b-1f9a-40c3-92ad-c8e2a2b55fa1")
@@ -148,6 +148,17 @@
 		(uuid "95aee72e-e968-4565-a7c9-34d908ffb5e4")
 	)
 	(fp_rect
+		(start -3.25 -3)
+		(end 3.25 3.25)
+		(stroke
+			(width 0.01)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "60d9b095-315c-41d9-aee7-72a6ae9ad3e3")
+	)
+	(fp_rect
 		(start -1.5 -1.5)
 		(end 1.5 1.6)
 		(stroke
@@ -170,7 +181,7 @@
 		(uuid "2b842f19-70d2-4497-bc2d-d0bed076f3dc")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 4.5 0)
+		(at 0 5.75 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "19a1b282-2861-4623-a1f9-aaf286ceead7")
@@ -188,7 +199,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "b34cb781-3dcf-480e-b499-a7288ef4b12f")
 	)
-	(pad "3" smd roundrect
+	(pad "2" smd roundrect
 		(at -1.45 -0.05)
 		(size 1.05 2.2)
 		(layers "F.Cu" "F.Paste" "F.Mask")
@@ -196,7 +207,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "76b63cfc-66ab-4b3a-9240-91bbd52150b2")
 	)
-	(pad "3" smd roundrect
+	(pad "2" smd roundrect
 		(at 1.45 -0.05)
 		(size 1.05 2.2)
 		(layers "F.Cu" "F.Paste" "F.Mask")
