@@ -7636,7 +7636,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC0603X33N"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 			(at 27 137.16 0)
 			(effects
 				(font
@@ -7921,7 +7921,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-323F"
 			(at 132.08 49.53 0)
 			(effects
 				(font
@@ -8056,7 +8056,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC0603X33N"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 			(at 93.98 -56.82 0)
 			(effects
 				(font
@@ -8267,7 +8267,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 194.0052 58.42 0)
 			(effects
 				(font
@@ -8402,7 +8402,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L16.5mm_W9.0mm_P15.00mm_MKT"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 147.32 115.57 0)
 			(effects
 				(font
@@ -8814,7 +8814,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-323F"
 			(at 132.08 39.37 0)
 			(effects
 				(font
@@ -9353,7 +9353,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC1608X90N"
+		(property "Footprint" "Library:C_2.8x1"
 			(at 259.08 149.53 0)
 			(effects
 				(font
@@ -9493,7 +9493,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-323F"
 			(at 119.38 49.53 0)
 			(effects
 				(font
@@ -10042,7 +10042,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPC0603X33N"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 166.7 102.87 0)
 			(effects
 				(font
@@ -10663,7 +10663,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L16.5mm_W9.0mm_P15.00mm_MKT"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 139.7 101.6 0)
 			(effects
 				(font
@@ -10871,7 +10871,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 232.1052 80.01 0)
 			(effects
 				(font
@@ -11287,7 +11287,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAPC1005X61N"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 270.18 76.2 0)
 			(effects
 				(font
@@ -11564,7 +11564,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 182.5752 147.32 0)
 			(effects
 				(font
@@ -11697,7 +11697,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC0603X33N"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 			(at 19.38 137.16 0)
 			(effects
 				(font
@@ -12327,7 +12327,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-323F"
 			(at 119.38 39.37 0)
 			(effects
 				(font
@@ -12534,7 +12534,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Library:C_2.8x1"
 			(at 243.5352 107.95 0)
 			(effects
 				(font
@@ -12602,7 +12602,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC1608X90N"
+		(property "Footprint" "Library:C_2.8x1"
 			(at 259.08 186.36 0)
 			(effects
 				(font
@@ -12946,7 +12946,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC0603X33N"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 			(at 58.42 -4.75 0)
 			(effects
 				(font
@@ -13173,7 +13173,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAPC1608X90N"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 			(at 284.15 48.26 0)
 			(effects
 				(font
