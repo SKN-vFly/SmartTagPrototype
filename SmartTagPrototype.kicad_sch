@@ -9965,7 +9965,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAPC1608X90N"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 			(at 185.09 76.2 0)
 			(effects
 				(font
