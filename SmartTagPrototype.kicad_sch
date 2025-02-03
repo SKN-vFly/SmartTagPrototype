@@ -8411,6 +8411,7 @@
 	)
 	(label "VBUCK"
 		(at 69.85 62.23 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8421,6 +8422,7 @@
 	)
 	(label "VBUCK"
 		(at 83.82 104.14 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8594,7 +8596,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 67.31 109.22 0)
 			(effects
 				(font
@@ -8732,7 +8734,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:U_FL"
 			(at 252.73 134.62 0)
 			(effects
 				(font
@@ -8866,7 +8868,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 139.7 115.57 0)
 			(effects
 				(font
@@ -9075,7 +9077,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 132.08 30.48 0)
 			(effects
 				(font
@@ -9277,7 +9279,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 245.11 95.25 0)
 			(effects
 				(font
@@ -9894,7 +9896,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 80.01 109.22 0)
 			(effects
 				(font
@@ -10171,7 +10173,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 133.35 105.41 0)
 			(effects
 				(font
@@ -10238,7 +10240,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:U_FL"
 			(at 124.46 13.97 0)
 			(effects
 				(font
@@ -10792,7 +10794,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 132.08 27.94 0)
 			(effects
 				(font
@@ -10860,7 +10862,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 120.65 29.21 0)
 			(effects
 				(font
@@ -11206,7 +11208,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 80.01 111.76 0)
 			(effects
 				(font
@@ -11274,7 +11276,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 127 22.86 0)
 			(effects
 				(font
@@ -11481,7 +11483,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 124.46 22.86 0)
 			(effects
 				(font
@@ -11616,7 +11618,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 144.78 110.49 0)
 			(effects
 				(font
@@ -11825,7 +11827,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 238.76 90.17 0)
 			(effects
 				(font
@@ -12512,7 +12514,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 67.31 106.68 0)
 			(effects
 				(font
@@ -12935,7 +12937,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 67.31 111.76 0)
 			(effects
 				(font
@@ -13413,7 +13415,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 238.76 87.63 0)
 			(effects
 				(font
@@ -13547,7 +13549,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 120.65 26.67 0)
 			(effects
 				(font
@@ -13903,7 +13905,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 80.01 106.68 0)
 			(effects
 				(font
