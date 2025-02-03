@@ -8456,7 +8456,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:JELF243A"
+		(property "Footprint" "Library:SMD_1.6_1.5"
 			(at 74.93 -7.29 0)
 			(effects
 				(font
@@ -11343,7 +11343,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LQW18AS10NG0CD"
+		(property "Footprint" "Library:SMD_2.0x1.0"
 			(at 156.54 116.84 0)
 			(effects
 				(font
@@ -14393,7 +14393,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LQM18DH330M70L"
+		(property "Footprint" "Library:SMD_1.6_1.5"
 			(at 200.33 44.45 0)
 			(effects
 				(font

@@ -1,4 +1,4 @@
-24369974781360504
+24373452031767970
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65386,6 +65386,20 @@ QFN-48_EP_6x6_Pitch0.4mm
 0
 65
 49
+Library
+SMD_1.6_1.5
+
+
+0
+2
+2
+Library
+SMD_2.0x1.0
+
+
+0
+2
+2
 Library
 U_FL
 
