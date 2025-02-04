@@ -8299,16 +8299,6 @@
 		)
 		(uuid "fed26499-919a-4d25-b869-51c30d0827d5")
 	)
-	(text "NIE WIEM JAKA OBUDOWA DO TEGO UKŁADU\nfootprinty są na obydwie, możecie przełączyć w razie czego"
-		(exclude_from_sim no)
-		(at 200.66 81.788 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "0cc1f88e-02b2-49f0-b7c8-44aa391802d9")
-	)
 	(text "One AC source at a time!"
 		(exclude_from_sim no)
 		(at 152.908 18.034 0)
@@ -8379,16 +8369,6 @@
 		)
 		(uuid "ccc7379d-2cc8-48d4-83c1-4cd2b623537e")
 	)
-	(text "-"
-		(exclude_from_sim no)
-		(at 131.318 28.194 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "d80f7d8a-fde0-4dbc-8fba-1a81a635163e")
-	)
 	(text "SWDIO"
 		(exclude_from_sim no)
 		(at 229.87 154.432 90)
@@ -8411,7 +8391,6 @@
 	)
 	(label "VBUCK"
 		(at 69.85 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8422,7 +8401,6 @@
 	)
 	(label "VBUCK"
 		(at 83.82 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
